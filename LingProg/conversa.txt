@@ -1,0 +1,12 @@
+1
+3
+2
+1|20180112133045:Ola tudo bem?
+2|20180112134045:Esta tudo e contigo?
+3
+1|20180112134045:Vamos ao cinema hoje?
+2|20180112134050:Pode ser.
+1|20180112134045:Vamos ao cinema hoje?
+2
+2|20180112134050:Pode ser.
+1|20180112134045:Vamos ao cinema hoje?
